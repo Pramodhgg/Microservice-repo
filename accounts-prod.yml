@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Microservices bank accounts related prod APIs "
+  message: "Welcome to Microservices bank accounts related production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}e7d8a2d8975c485448c47db52cc083124ff144d90e6c69d06e9b3131c39468fd14539f11c8a094912251e06d4bae88fe"
