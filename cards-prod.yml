@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Microservice bank cards related Webhook PROD APIs "
+  message: "Welcome to Microservice bank cards related Webhook RabbitMQ PROD APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@ms.com"
