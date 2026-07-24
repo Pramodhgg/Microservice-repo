@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Microservices bank accounts related DEFAULT APIs "
+  message: "Welcome to Microservices bank accounts related LOCAL APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@ms.com"
